@@ -12,7 +12,13 @@ git commit -m "GIT first steps"
 git push origin <your-branch>
 
 -------------------------------------------------------
-
 // pushing an existing repository from the command line
+
 git remote add origin https://github.com/DawidSarnecki/Notes.git
 git push -u origin master
+
+
+-----------------------
+// Cloning a repository
+
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
