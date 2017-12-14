@@ -1,0 +1,30 @@
+1.step
+echo "# <name>" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/DawidSarnecki/<Name>.git
+git push -u origin master
+
+2.step
+git add .
+git commit -m "GIT first steps"
+git push origin <your-branch>
+
+-------------------------------------------------------
+// pushing an existing repository from the command line
+
+git remote add origin https://github.com/DawidSarnecki/Notes.git
+git push -u origin master
+
+
+-----------------------
+// Cloning a repository
+
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+-----------------------
+//Undo changes after "git add" and before "commit"
+git reset <file_name.test>
+ After execute this command I can delete this pointered file from source.
+
