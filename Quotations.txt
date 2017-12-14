@@ -1,0 +1,11 @@
+*********************************************************************************
+source: https://devstyle.pl/2015/09/29/najlepsze-szkolenia-programistyczne/
+
+Szkolenie powinno obfitowaæ w æwiczenia praktyczne. Takie, które zaanga¿uj¹ zerojedynkowego dev-ducha. Moim zdaniem szkolenia w postaci warsztatów s¹ o wiele bardziej wartoœciowe ni¿ czysto teoretyczne wyk³ady. Oczywiœcie podstawy teoretyczne tak¿e musz¹ siê pojawiæ, ale programista powinien robiæ g³ównie to, co lubi najbardziej, czyli: kombinowaæ, zmagaæ siê z wyzwaniami i rozwi¹zywaæ problemy za pomoc¹ kodu! Od razu zastosowaæ w praktyce wszystko to, o czym jest mowa. Teoria to tylko odpowiedni wstêp, podk³adka.
+
+ 
+Tell me and I forget. Teach me and I remember. Involve me and I learn.
+
+    (Benjamin Franklin)
+
+*********************************************************************************

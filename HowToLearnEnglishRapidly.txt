@@ -1,0 +1,114 @@
+source: https://kursphp.com/jezyk-angielski-dla-programistow/
+	
+*****************************************************************************************
+	
+Learn English or szukaj innej profesji.
+
+1. Start watch anglish films without subtitles or listening to radio (min. 2 hours / day)
+
+2. Read book in english, especially technical.
+
+3. Talk as much as possible.
+
+*****************************************************************************************
+
+
+Język angielski dla programistów – absolutne minimum
+19 lutego 2016 w Firma i freelance	
+Marcin Wesel
+
+Jak to jest w życiu programisty. Bez angielskiego można czy nie? Czy tylko w zagranicznych korpo jest wymagana znajomość angielskiego?
+
+Prawda jest taka, że będąc średniej klasy freelancerem, realizującym głównie strony internetowe dla lokalnych klientów, jesteśmy w stanie żyć bez znajomości angielskiego. Polska realizacja, polski klient, polski produkt, przeznaczony dla Polaków.
+
+Jednak brak znajomości angielskiego może zacząć przeszkadzać.
+
+Kiedy?
+
+Kiedy nasze portfolio rośnie, renoma zwiększa się z każdym dniem, a do drzwi pukają coraz bardziej zamożni klienci.
+
+Dobre praktyki pisania kodu wymagają od nas, by kod był ‚anglojęzyczny’. Znaczy to mniej więcej tyle, że wszystkie nazwy zmiennych, klas, interfejsów i funkcji powinny mieć angielskie nazwy. Do tego każdy opisowy komentarz i dokumentacja także mają być pisane po angielsku.
+
+W mini projektach w domowym zaciszu możesz sobie pisać jak chcesz. Jednak, jeśli masz zamiar kiedyś przejść na profesjonalizm, musisz się przełamać i przejść na język angielski.
+
+Żyjemy w czasach masowej globalizacji. Dzisiaj nie trzeba mieć milionów, żeby ze swoim produktem ruszać na rynek Europy Zachodniej czy Stanów Zjednoczonych. Serwery na całym świecie są tanie i dostępne kilkoma kliknięciami w ciągu minuty.
+
+My, jako Polacy, naprawdę dobrze posługujemy się językami obcymi. Mamy naturalne predyspozycje, by mówić płynnie i zrozumiale. Do tego nasze dobre przygotowanie techniczne i fach w ręku sprawiają, że jesteśmy atrakcyjnym punktem na mapie dla ogromnych, międzynarodowych firm.
+
+Na chwilę obecną dolar stoi bardzo mocno względem złotówki. To tylko zwiększa naszą atrakcyjność w oczach korporacji, które znajdują w nas tanią, aczkolwiek bardzo dobrą, siłę roboczą. Coraz więcej z nich decyduje się zamykać drogie centra R&D w Stanach, Kanadzie czy Europie Zachodniej. Inwestują w nowe biurowce w Warszawie, Krakowie, Wrocławiu, Gdańsku i wielu innych miastach Polski.
+
+To wszystko sprawia, że zapotrzebowanie na programistów w Polsce nie maleje. Jednak jest jeden kluczowy warunek. Każdy taki programista musi potrafić dogadać się po angielsku. Do tego, musi w miarę płynnie czytać i pisać dokumentację oraz innego rodzaju dokumenty.
+
+Często musi przechodzić przez szkolenia wewnętrzne w całości stworzone po angielsku. Tyczą się one nie tylko programowania, ale też kultury organizacji czy procesów w niej panujących.
+
+Dlatego naprawdę ważne jest, by poznać angielski w stopniu ogólnym. Równie łatwo porozmawiać o pogodzie i swoim hobby, co przedyskutować zalety serwisów RESTowych nad SOAPowymi.
+
+Często już w trakcie rozmowy kwalifikacyjnej padnie kilka pytań technicznych po angielsku. W tym moje ulubione – „What is the difference between abstract class and interface?”. Musisz potrafić się wypowiedzieć, bo inaczej jesteś przegrany na starcie.
+
+Duża firma nie zatrudni kogoś, z kim nie da rady się porozumieć. Szczególnie, jeśli Twoim bezpośrednim managerem będzie obcokrajowiec. Nawet jeśli, jakimś cudem, firma zdecyduje się Ciebie zatrudnić, to stawka możliwa do wynegocjowania spada na łeb.
+
+My, programiści, mamy ten ogromny plus, że większość z nas grała sporo w gry komputerowe. Ogromna większość z nich była po angielsku i, chcąc nie chcąc, osłuchaliśmy się z tym językiem. Na pewno poznałeś też kilka typowych, codziennych zwrotów. Dlatego, nawet jeśli nie uważałeś na lekcjach w szkole, nie jesteś na straconej pozycji.
+
+Jak szybko i wydajnie popracować nad swoim angielskim?
+
+Opowiem z własnego doświadczenia.
+
+
+
+1. Zacznij oglądać filmy po angielsku bez napisów. - ang, 2 godz dziennie
+
+To najpotężniejsza metoda, jeśli nie mamy anglojęzycznych przyjaciół. Dwie godziny słuchania niemal wyłącznie języka angielskiego – w ogryginalnej wymowie, nieco innej dla każdego aktora. Nic nie szkodzi, że teraz niewiele rozumiesz. Ważne, by Twój mózg przestawił się na angielski i stwierdził, że jest to ważna umiejętność.
+
+Jeśli tak się stanie, zaczniej szybciej i dużo łatwiej zapamiętywać angielskie zwroty. Do tego słuchając, zaczniesz wyłapywać słowa i spacje pomiędzy nimi.
+
+To dlatego ludzie, nie mówiący nic po angielsku, po pół roku pracy na Wyspach, wracają z całkiem przyzwoicie opanowanym ich językiem. Jeśli, oczywiście, chcieli się go nauczyć.
+
+
+
+2. Czytaj książki po angielsku. Najlepiej te techniczne.
+
+Ta metoda zapewnia Ci dwie korzyści w jednym. Po pierwsze – czytasz po angielsku, oswajasz się z nim i poznajesz nowe zwroty. Po drugie – nabywasz bardzo ważnego słownictwa technicznego.
+
+Bez wątpienia, pracując jako programista, najwięcej używa się angielskiego właśnie podczas czytania.
+
+Wszystkie największe źródła wiedzy programistycznej (nie tylko w PHP) są po angielsku. Takie strony jak stackoverflow.com czy wszystkie pochodne stackexchange.com oraz większość rodzimych dokumentacji są w języku angielskim.
+
+Nie korzystając z nich sami strzelamy sobie w stopę!
+
+Są narzędzia, jak Google Translator, które starają się zrekompensować nasz brak znajomości języka obcego. Wciąż jednak są niedoskonałe i bardzo często zdarzają się grube przekłamania w automatycznych tłumaczeniach.
+
+
+
+3. Mów jak najwięcej.
+
+Niech to będzie nawet ‚Kali jeść, Kali pić’. Chodzi o to, by przemóc swój wewnętrzny opór przed mówieniem.
+
+Pamiętaj, nie musisz być wirtuozem wymowy. Chodzi o to, by druga osoba potrafiła zrozumieć o co Ci chodzi i co chcesz przekazać.
+
+W pracy, mówienie po angielsku przydaje się znacznie rzadziej niż czytanie czy pisanie. Najczęściej ogranicza się do „Hello, Thanks & OK”. Sytuacja zmieni się znacząco, gdy Twoim bezpośrednim managerem nie będzie Polak. Wtedy wypada wymienić z nim parę słów na tydzień.
+
+Podsumowując.
+
+W dzisiejszym programistycznym świecie – bez angielskiego jak bez ręki. Programować można, ale zdecydowanie nie jest to łatwe.
+
+Szczególnie, że 98% wszystkich informacji, których szukamy, będzie w języku angielskim.
+
+Learn English or szukaj innej profesji.
+Tagi: angielski, praca, programista	
+
+    About The Author: Marcin Wesel
+
+    More posts by Marcin Wesel	
+	
+	
+*****************************************************************************************
+	
+Learn English or szukaj innej profesji.
+
+1. Start watch anglish films without subtitles or listening to radio (min. 2 hours / day)
+
+2. Read book in english, especially technical.
+
+3. Talk as much as possible.
+
+*****************************************************************************************
